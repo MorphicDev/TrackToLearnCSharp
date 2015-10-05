@@ -9,8 +9,8 @@ The track was inspired by this blog post: http://blog.pluralsight.com/learning-p
 but this track provides a more detailed set of resources for each objective in the Exam Ref 70-483 book.
 
 # Milestone 1
-* [2.2 Consuming Types](## 2.2 Consuming Types)
-* [2.1 Constructing Types](## 2.1 Create Types)
+* [2.2 Consume Types](## 2.2 Consume Types)
+* [2.1 Create Types](## 2.1 Create Types)
 * 4.5 Collections
 * 1.3 Program Flow
 * 1.5 Exceptions
