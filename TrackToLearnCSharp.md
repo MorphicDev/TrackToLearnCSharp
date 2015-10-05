@@ -84,3 +84,20 @@ but this track provides a more detailed set of resources for each objective in t
 ![Pluralsight](http://www.pluralsight.com/favicon.ico) Extension methods (Optional) - http://www.pluralsight.com/courses/csharp-extension-methods 
 
 -----
+
+ Manipulating Strings
+
+## 2.1 Using strings in the .NET Framework
+### Manipulating strings
+ ![Pluralsight](http://www.pluralsight.com/favicon.ico) Mastering C# 4.0 – String Manipulation - http://bit.ly/1j8Wemi 
+
+ ![Pluralsight](http://www.pluralsight.com/favicon.ico) Mastering C# 4.0 – Strings: Equality, Interning Concatenation 55mins http://bit.ly/1MavZ5s
+
+ ![Youtube](http://www.cami.com/images/favicon_youtube.png) Homework 28mins: http://bit.ly/1OtKIeI
+
+StringWriter/Reader for XML
+
+### Searching for strings - Learn more about StringComparison
+ ![MorphicDev](http://morphicdesign.co.nz/wp-content/uploads/2014/02/favicon.gif) Get started with regex: morphicdesign.co.nz/get-started-regular-expressions/ 
+
+ ![Pluralsight](http://www.pluralsight.com/favicon.ico) .Net Regular Expressions PluralSight:  http://bit.ly/1OPDUaX 
