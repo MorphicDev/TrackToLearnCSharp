@@ -11,14 +11,14 @@ but this track provides a more detailed set of resources for each objective in t
 # Milestone 1
 * [2.2 Consume Types](## 2.2 Consume Types)
 * [2.1 Create Types](## 2.1 Create Types)
-* 4.5 Collections
+* [4.5 Collections](## 4.5 Collections)
 * 1.3 Program Flow
 * 1.5 Exceptions
 * 1.4 Callbacks - delegates
 * 2.4 Class Hierarchy - interfaces
 * 2.3 Encapsulation - access modifiers
 
------
+---
 ## 2.2 Consume Types
 ### Boxing and unboxing
 ![Pluralsight][ICON-PS] Accelerated C# Fundamentals: Boxing - http://bit.ly/1COvMHd
@@ -36,7 +36,7 @@ but this track provides a more detailed set of resources for each objective in t
 ### Extra resources
 ![Youtube][ICON-YT] Jesse Dietrichson: Exam 70-483 Objective 2.2 Consume types - http://bit.ly/1LzJcrH 
 
------
+---
 
 ## 2.1 Create Types
 ### Choosing a type to create
@@ -45,7 +45,6 @@ but this track provides a more detailed set of resources for each objective in t
 ![Pluralsight][ICON-PS] C# Fundamentals: Value Types - http://bit.ly/1Gyg39L
  
 ![Pluralsight][ICON-PS] C# Fundamentals: Structs/Enums - http://bit.ly/1g0RCNr 
-
 
 ### Giving your types some body
 ![Pluralsight][ICON-PS] C# Fundamentals: Methods - http://bit.ly/1MEWEt0 
@@ -56,7 +55,6 @@ but this track provides a more detailed set of resources for each objective in t
 ![Pluralsight][ICON-PS] Accelerated C#: Classes and Objects 2mins http://bit.ly/1MhvqL5 
 
 ![Pluralsight][ICON-PS] Mastering C#: Basics Writing Your First Class (quite basic) - http://bit.ly/1Mm6Auh 
-
 
 ### Using generic types
 ![Pluralsight][ICON-PS] Accelerated C#: C# and Generics, Why Generics - http://bit.ly/1Mm5ijc 
@@ -83,25 +81,75 @@ but this track provides a more detailed set of resources for each objective in t
 
 ![Pluralsight][ICON-PS] Extension methods (Optional) - http://www.pluralsight.com/courses/csharp-extension-methods 
 
------
+---
+## 4.5 Collections
+
+### Using arrays
+![Pluralsight][ICON-PS] C# from Scratch: Arrays & Collections, Arrays - http://bit.ly/1SyZykA
+
+### Understanding generic vs nongeneric
+
+![Pluralsight][ICON-PS] Accelerated C#: Building Collections without Generics - http://bit.ly/1g0NCfO 
+
+![Pluralsight][ICON-PS] Mastering C# 4.0: Intro To Generics and Var - http://bit.ly/1Mce3HA 
+
+#### Using List
+
+![Pluralsight][ICON-PS] Mastering C# 4.0: Lists & Dictionaries - http://bit.ly/1Sz03Lv
+ 
+#### Using Dictionary
+
+![Pluralsight][ICON-PS] Mastering C#: Using the Dictionary Type - http://bit.ly/1Ih3FSY 
+
+#### Using Sets
+
+![Pluralsight][ICON-PS] C# Collections Fundamentals: Sets - http://bit.ly/1JQDayE
+
+#### Using queues and stacks 
+![Pluralsight][ICON-PS] C# from Scratch: Queue http://bit.ly/1HNxh4O 
+
+![Pluralsight][ICON-PS] C# Collections fundamentals: http://bit.ly/1OATCGR 
+
+### Choosing a collection
+
+Content needed.
+
+### Creating a custom collection 
+
+Content needed.
+
+### Extra resources
+
+![Youtube][ICON-YT] Jesse Dietrichson: Generics - https://www.youtube.com/watch?v=U4E5j45swiI 
+
+![Pluralsight][ICON-PS] The full C# Collections Fundamentals course - http://bit.ly/1Z6cUed
+
+* A dictionary is fast for reading elements by look up. 
+* You search a list by index. A list gives you random access to the elements. 
+* The stack and queue let you access only elements in order, elements are removed when retrieved, they let you peek at the closest element available.
+
+---
 
 ## 2.7 Manipulate Strings
 
 ### Using strings in the .NET Framework
+
 ### Manipulating strings
- ![Pluralsight][ICON-PS] Mastering C# 4.0 – String Manipulation - http://bit.ly/1j8Wemi 
 
- ![Pluralsight][ICON-PS] Mastering C# 4.0 – Strings: Equality, Interning Concatenation 55mins http://bit.ly/1MavZ5s
+![Pluralsight][ICON-PS] Mastering C# 4.0: String Manipulation - http://bit.ly/1j8Wemi 
 
- ![Youtube][ICON-YT] Homework 28mins: http://bit.ly/1OtKIeI
+![Pluralsight][ICON-PS] Mastering C# 4.0, Strings: Equality, Interning Concatenation - http://bit.ly/1MavZ5s
 
-StringWriter/Reader for XML
+### Searching for strings
 
-### Searching for strings - Learn more about StringComparison
- ![MorphicDev][ICON-MD] Get started with regex: http://morphicdesign.co.nz/get-started-regular-expressions/ 
+![MorphicDev][ICON-MD] Get started with regex - http://morphicdesign.co.nz/get-started-regular-expressions/ 
 
- ![Pluralsight][ICON-PS] .Net Regular Expressions PluralSight:  http://bit.ly/1OPDUaX 
- 
+![Pluralsight][ICON-PS] .Net Regular Expressions PluralSight - http://bit.ly/1OPDUaX 
+
+### Extra resources
+
+![Youtube][ICON-YT] Jesse Dietrichson - http://bit.ly/1OtKIeI
+
 [ICON-YT]: http://www.cami.com/images/favicon_youtube.png
 [ICON-MD]: http://snag.gy/KiVDG.jpg
 [ICON-PS]: http://www.pluralsight.com/favicon.ico
