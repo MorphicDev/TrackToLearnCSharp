@@ -9,8 +9,8 @@ The track was inspired by this blog post: http://blog.pluralsight.com/learning-p
 but this track provides a more detailed set of resources for each objective in the Exam Ref 70-483 book.
 
 # Milestone 1
-* [2.2 Consuming Types](## 2.2 Consuming Types)
-* [2.1 Constructing Types](## 2.1 Create Types)
+* [2.2 Consume Types](## 2.2 Consume Types)
+* [2.1 Create Types](## 2.1 Create Types)
 * 4.5 Collections
 * 1.3 Program Flow
 * 1.5 Exceptions
@@ -85,9 +85,9 @@ but this track provides a more detailed set of resources for each objective in t
 
 -----
 
- Manipulating Strings
+## 2.7 Manipulate Strings
 
-## 2.1 Using strings in the .NET Framework
+### Using strings in the .NET Framework
 ### Manipulating strings
  ![Pluralsight][ICON-PS] Mastering C# 4.0 – String Manipulation - http://bit.ly/1j8Wemi 
 
@@ -98,11 +98,11 @@ but this track provides a more detailed set of resources for each objective in t
 StringWriter/Reader for XML
 
 ### Searching for strings - Learn more about StringComparison
- ![MorphicDev][ICON-MD] Get started with regex: morphicdesign.co.nz/get-started-regular-expressions/ 
+ ![MorphicDev][ICON-MD] Get started with regex: http://morphicdesign.co.nz/get-started-regular-expressions/ 
 
  ![Pluralsight][ICON-PS] .Net Regular Expressions PluralSight:  http://bit.ly/1OPDUaX 
  
 [ICON-YT]: http://www.cami.com/images/favicon_youtube.png
-[ICON-MD]: http://morphicdesign.co.nz/wp-content/uploads/2014/02/favicon.gif
+[ICON-MD]: http://snag.gy/KiVDG.jpg
 [ICON-PS]: http://www.pluralsight.com/favicon.ico
 [ICON-MS]: http://bit.ly/1Z2aZaN
