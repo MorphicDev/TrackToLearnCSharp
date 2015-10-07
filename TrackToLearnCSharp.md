@@ -130,6 +130,26 @@ Content needed.
 
 ---
 
+## 1.3 Program Flow
+
+### Working with boolean expressions
+
+![Pluralsight][ICON-PS] C# From Scratch: Truth, Booleans - http://bit.ly/1Mm8zPk
+
+### Making decisions
+
+![Pluralsight][ICON-PS] Mastering C# 4.0: Conditions and Loops, if/else - http://bit.ly/1gLBO17 
+
+### Iterating across collections
+
+![Pluralsight][ICON-PS] Mastering C# 4.0: Conditions and Loops full video - http://bit.ly/1hrvlYZ 
+
+### Extra resources
+
+![Youtube][ICON-YT] Jesse Dietrichson: Implement program flow - http://bit.ly/1hrvrjk
+
+---
+
 ## 2.7 Manipulate Strings
 
 ### Using strings in the .NET Framework
