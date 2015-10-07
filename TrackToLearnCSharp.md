@@ -9,9 +9,10 @@ The track was inspired by this blog post: http://blog.pluralsight.com/learning-p
 but this track provides a more detailed set of resources for each objective in the Exam Ref 70-483 book.
 
 # Milestone 1
+
 * [2.2 Consuming Types](## 2.2 Consuming Types)
 * [2.1 Constructing Types](## 2.1 Create Types)
-* 4.5 Collections
+* [4.5 Collections](## 4.5 Collections)
 * 1.3 Program Flow
 * 1.5 Exceptions
 * 1.4 Callbacks - delegates
@@ -82,5 +83,32 @@ but this track provides a more detailed set of resources for each objective in t
 ![Youtube](http://www.cami.com/images/favicon_youtube.png) Jesse Dietrichson: Classes (Optional) - http://bit.ly/1VonLyj 
 
 ![Pluralsight](http://www.pluralsight.com/favicon.ico) Extension methods (Optional) - http://www.pluralsight.com/courses/csharp-extension-methods 
+
+-----
+
+## 4.5 Collections
+### Using arrays
+![Pluralsight](http://www.pluralsight.com/favicon.ico) C# from Scratch – Arrays and Collections – Arrays 9mins  - http://bit.ly/1SyZykA 
+![Pluralsight](http://www.pluralsight.com/favicon.ico) C# Collections Fundamentals – What are Arrays – What are Arrays 2mins  - http://bit.ly/1jNiHVX 
+
+### Understanding generic versus nongeneric
+![Pluralsight](http://www.pluralsight.com/favicon.ico) Accelerated C# - C# and Generics – Building Collections without Generics 3min - http://bit.ly/1g0NCfO 
+![Pluralsight](http://www.pluralsight.com/favicon.ico) Mastering C# 4.0 - Intro To Generics and var 9min - http://www.pluralsight.com/courses/skeet-csharp4 
+
+### Using List
+![Pluralsight](http://www.pluralsight.com/favicon.ico) C# from Scratch – Arrays and Collections – 7.3
+![Pluralsight](http://www.pluralsight.com/favicon.ico) Mastering C# 4.0 - Basics: Lists and Dictionaries – 20mins - http://bit.ly/1Sz03Lv 
+
+### Using Dictionary
+C# from Scratch – 7.6
+![Pluralsight](http://www.pluralsight.com/favicon.ico) Mastering C# - Using the Dictionary Type - http://bit.ly/1Ih3FSY 
+![Pluralsight](http://www.pluralsight.com/favicon.ico) Using set - http://bit.ly/1JQDayE t
+
+### Using queues and stacks 
+![Pluralsight](http://www.pluralsight.com/favicon.ico) C# from Scratch – Queue http://bit.ly/1HNxh4O 
+![Pluralsight](http://www.pluralsight.com/favicon.ico) C# Collections fundamentals - Stack  http://bit.ly/1OATCGR 
+
+### Extra resources
+![Youtube](http://www.cami.com/images/favicon_youtube.png) Jesse Dietrichson: Advanced C# - Generics 29 mins - http://bit.ly/1PiRCFY 
 
 -----
