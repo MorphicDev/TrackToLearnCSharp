@@ -12,11 +12,12 @@ but this track provides a more detailed set of resources for each objective in t
 * [2.2 Consume Types](#22-consume-types)
 * [2.1 Create Types](#21-create-types)
 * [4.5 Collections](#45-collections)
-* 1.3 Program Flow
+* [1.3 Program Flow](#13-program-flow)
 * 1.5 Exceptions
 * 1.4 Callbacks - delegates
 * 2.4 Class Hierarchy - interfaces
 * 2.3 Encapsulation - access modifiers
+* [2.7 Manipulate Strings](#27-manipulate-strings)
 
 ---
 ## 2.2 Consume Types
