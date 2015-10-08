@@ -17,7 +17,6 @@ but this track provides a more detailed set of resources for each objective in t
 * 1.4 Callbacks - delegates
 * 2.4 Class Hierarchy - interfaces
 * 2.3 Encapsulation - access modifiers
-* [2.7 Manipulate Strings](#27-manipulate-strings)
 
 ---
 ## 2.2 Consume Types
