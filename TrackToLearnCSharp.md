@@ -18,6 +18,23 @@ but this track provides a more detailed set of resources for each objective in t
 * 2.4 Class Hierarchy - interfaces
 * 2.3 Encapsulation - access modifiers
 
+# Milestone 2
+* [2.7 Manipulating Strings](## 2.7 Manipulate Strings)
+* 3.1 Validating input
+* 1.1 Multithread & Asynchronous
+* 1.2 Managing resources
+* 4.1 Perform I/O
+* 4.2 Consuming Data
+* 4.3 LINQ 
+* 4.4 Serialisation 
+
+# Milestone 3
+* 3.3 Assemblies
+* 2.5 Reflection
+* 3.4 Debugging
+* 3.5 Diagnostics 
+* 2.6 Object Life
+* 3.2 Encryption 
 ---
 ## 2.2 Consume Types
 ### Boxing and unboxing
