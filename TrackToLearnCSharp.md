@@ -12,8 +12,8 @@ but this track provides a more detailed set of resources for each objective in t
 * [2.2 Consume Types](## 2.2 Consume Types)
 * [2.1 Create Types](## 2.1 Create Types)
 * [4.5 Collections](## 4.5 Collections)
-* 1.3 Program Flow
-* 1.5 Exceptions
+* [1.3 Program Flow](## 1.3 Program Flow)
+* [1.5 Exceptions](## 1.5 Implement Exception Handling)
 * 1.4 Callbacks - delegates
 * 2.4 Class Hierarchy - interfaces
 * 2.3 Encapsulation - access modifiers
@@ -147,6 +147,28 @@ Content needed.
 ### Extra resources
 
 ![Youtube][ICON-YT] Jesse Dietrichson: Implement program flow - http://bit.ly/1hrvrjk
+
+---
+
+## 1.5 Implement Exception Handling
+
+### Handling exceptions
+
+![Pluralsight][ICON-PS] C# Fundamentals: Flow Control - http://bit.ly/1LzMVFK
+
+![Pluralsight][ICON-PS] C# From Scratch: Exceptions- http://bit.ly/1O0C8Ye
+
+### Throwing exceptions
+
+![Pluralsight][ICON-PS] Accelerated C#: Throwing exceptions - http://bit.ly/1MhAVt7 
+
+### Creating custom exceptions
+
+![Pluralsight][ICON-PS] Accelerated C#: Custom exceptions - http://bit.ly/1JdWJ80
+
+### Extra resources
+
+![Youtube][ICON-YT] Jesse Dietrichson: Objective 1.5 - http://bit.ly/1MhzoDn
 
 ---
 
